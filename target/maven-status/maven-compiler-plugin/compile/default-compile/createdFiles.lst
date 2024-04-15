@@ -1,0 +1,11 @@
+com/district/test/model/FokontanyModel.class
+com/district/test/model/CommuneModel.class
+com/district/test/entity/Region.class
+com/district/test/entity/District.class
+com/district/test/model/RegionModel.class
+com/district/test/model/Limit.class
+com/district/test/model/BureauvoteModel.class
+com/district/test/entity/Commune.class
+com/district/test/entity/Fokontany.class
+com/district/test/model/DistrictModel.class
+com/district/test/entity/Bureauvote.class
